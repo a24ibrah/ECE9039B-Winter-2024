@@ -11,7 +11,7 @@ ECE9039 offers an in-depth exploration of cutting-edge technologies and theories
 
 - `Lectures/` - Contains lecture notes, slides, and supplementary materials.
 - `Codes/` - Includes snippets of code developed during lectures.
-- `Practice Questions/` - Includes practice Questions addressed during lectures.
+- `Practice Questions/` - Includes practice questions addressed during lectures.
 
 ## Contributions
 
