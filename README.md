@@ -9,8 +9,9 @@ ECE9039 offers an in-depth exploration of cutting-edge technologies and theories
 
 ## Repository Structure
 
-- `lectures/` - Contains lecture notes, slides, and supplementary materials.
-- `codes/` - Includes snippets of code developed during lectures.
+- `Lectures/` - Contains lecture notes, slides, and supplementary materials.
+- `Codes/` - Includes snippets of code developed during lectures.
+- `Practice Questions/` - Includes practice Questions addressed during lectures.
 
 ## Contributions
 
